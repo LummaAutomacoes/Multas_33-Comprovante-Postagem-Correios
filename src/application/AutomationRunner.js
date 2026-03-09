@@ -114,10 +114,6 @@ class AutomationRunner {
 
             await this.updateDatabaseStatus(idAutomacao, 'Processos Finalizados', 'OK', 1.0);
 
-            const finalTime = new Date();
-            const duracao = Math.floor((finalTime - inicio) / 1000);
-            await this.db.updateFimAutomacao(idAutomacao, finalTime, duracao, data.length, 'Sucesso');
-
         } catch (error) {
             const finalTime = new Date();
             await this.db.insertStatusAutomacao(idAutomacao, 'Erro na Automação', 'ERRO', 0.0, finalTime);
