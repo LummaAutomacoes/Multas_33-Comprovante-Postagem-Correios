@@ -1,0 +1,27 @@
+{
+  "name": "multas_33-comprovante-postagem-correios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LummaAutomacoes/Multas_33-Comprovante-Postagem-Correios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "pg": "^8.16.3",
+    "puppeteer": "^24.23.0",
+    "xlsx": "^0.18.5"
+  },
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LummaAutomacoes/Multas_33-Comprovante-Postagem-Correios/issues"
+  },
+  "homepage": "https://github.com/LummaAutomacoes/Multas_33-Comprovante-Postagem-Correios#readme"
+}
