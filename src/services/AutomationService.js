@@ -140,8 +140,8 @@ export class AutomationService {
             await this.menuFrame.waitForSelector('#td02', { timeout: 30000 });
 
             await this.menuFrame.click('#td01', { clickCount: 3 });
-            await this.menuFrame.type('#td01', await this.getDateOneYearAndThreeMonthsAgo());
-            // await this.menuFrame.type('#td01', `01/03/2026`);
+            //await this.menuFrame.type('#td01', await this.getDateOneYearAndThreeMonthsAgo());
+             await this.menuFrame.type('#td01', `08/10/2025`);
 
             this.log.log('|------------Periodo de pesquisa estabelecido----------------|')
 

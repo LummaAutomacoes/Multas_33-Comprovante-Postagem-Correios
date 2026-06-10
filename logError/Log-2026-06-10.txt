@@ -1,0 +1,14 @@
+| ERROR : 14:18:53 |  |-----------Elemento sem resultado: YO084923466-----------|                     |
+undefined
+| ERROR : 14:18:59 |  |-----------Elemento sem resultado: YO091912132-----------|                     |
+undefined
+| ERROR : 14:19:06 |  |-----------Elemento sem resultado: YO091912194-----------|                     |
+undefined
+| ERROR : 14:19:12 |  |-----------Elemento sem resultado: YO092212661-----------|                     |
+undefined
+| ERROR : 14:19:18 |  |-----------Elemento sem resultado: YO092706517-----------|                     |
+undefined
+| ERROR : 14:19:24 |  |-----------Elemento sem resultado: YO092706582-----------|                     |
+undefined
+| ERROR : 14:19:30 |  |-----------Elemento sem resultado: YO092865867-----------|                     |
+undefined
